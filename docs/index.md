@@ -1,4 +1,4 @@
-# Read the Docs MkDocs Test Project
+# Read the Docs MkDocs Sample Project
 
 This is a test of [MkDocs](http://mkdocs.org) as it appears on [Read the Docs](https://readthedocs.org).
 Different versions of this documentation are build with different versions and themes of mkdocs.
