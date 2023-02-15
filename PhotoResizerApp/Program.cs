@@ -1,7 +1,7 @@
 ﻿using System.Drawing;
 
-ResizeImage(@"C:\Users\wdaugherty\Pictures\test\HouDown.jpg", @"C:\Users\wdaugherty\Pictures\test\HouDown_800.jpg", 800);
-ResizeImage(@"C:\Users\wdaugherty\Pictures\test\HouDown.jpg", @"C:\Users\wdaugherty\Pictures\test\HouDown_200.jpg", 200);
+ResizeImage(@"C:\Pictures\test\HouDown.jpg", @"C:\Pictures\test\HouDown_800.jpg", 800);
+ResizeImage(@"C:\Pictures\test\HouDown.jpg", @"C:\Pictures\test\HouDown_200.jpg", 200);
 
 // Scales the image size down based on the width
 static void ResizeImage(string sourcePath, string targtetPath, int width)
